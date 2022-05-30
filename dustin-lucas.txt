@@ -1,0 +1,94 @@
+1 Ancient Den
+1 Arcane Signet
+1 Azorius Chancery
+1 Boros Garrison
+1 Buried Ruin
+1 Burnished Hart
+1 Chromatic Lantern
+1 Combustible Gearhulk
+1 Commander's Sphere
+1 Command Tower
+1 Cyberdrive Awakener
+1 Dance of the Manse
+1 Darksteel Citadel
+1 Dispatch
+1 Dustin, Gadget Genius
+1 Emry, Lurker of the Loch
+1 Enthusiastic Mechanaut
+1 Etherium Sculptor
+1 Ethersworn Sphinx
+1 Exotic Orchard
+1 Fellwar Stone
+1 Fire Diamond
+1 Foundry Inspector
+1 Frostboil Snarl
+1 Gilded Lotus
+1 Gold Myr
+1 Great Furnace
+1 Hanna, Ship's Navigator
+1 Hedron Archive
+1 Hellkite Tyrant
+1 Ichor Wellspring
+1 Ingenuity Engine
+1 Iron Myr
+1 Izzet Boilerworks
+1 Jhoira's Familiar
+1 Jhoira, Weatherlight Captain
+1 Lucas, the Sharpshooter
+1 Marble Diamond
+1 Master of Etherium
+1 Mechanized Production
+1 Mechtitan Core
+1 Meteor Golem
+1 Mirrodin Besieged
+1 Myr Battlesphere
+1 Myriad Landscape
+1 Mystic Forge
+1 Mystic Monastery
+1 Negate
+1 Nettlecyst
+1 Ornithopter of Paradise
+1 Palladium Myr
+1 Pilgrim's Eye
+1 Port Town
+1 Raugrin Triome
+1 Razortide Bridge
+1 Reality Heist
+1 Research Thief
+1 Rustvale Bridge
+1 Sai, Master Thopterist
+1 Sanctum Gargoyle
+1 Scrap Trawler
+1 Sculpting Steel
+1 Seat of the Synod
+1 Shimmer Myr
+1 Shivan Reef
+1 Silverbluff Bridge
+1 Silver Myr
+1 Skycloud Expanse
+1 Sky Diamond
+1 Sojourner's Companion
+1 Solemn Simulacrum
+1 Sol Ring
+1 Spire of Industry
+1 Steel Hellkite
+1 Steel Overseer
+1 Storm the Vault
+1 Sulfur Falls
+1 Temple of Enlightenment
+1 Temple of Epiphany
+1 Temple of Triumph
+1 Tezzeret, Artifice Master
+1 The Antiquities War
+1 The Reality Chip
+1 Thirst for Knowledge
+1 Thopter Spy Network
+1 Thoughtcast
+1 Thought Monitor
+1 Thought Vessel
+1 Triplicate Titan
+1 Wayfarer's Bauble
+1 Whir of Invention
+3 Island
+3 Mountain
+3 Plains

@@ -1,0 +1,100 @@
+1 Adarkar Wastes
+1 Aether Gale
+1 Ancient Tomb
+1 Apostle's Blessing
+1 Arcane Denial
+1 Arcane Signet
+1 Archmage Emeritus
+1 Ardent Elementalist
+1 Arid Mesa
+1 Aurelia's Fury
+1 Baral's Expertise
+1 Battlefield Forge
+1 Battlefield Thaumaturge
+1 Blatant Thievery
+1 Bloodstained Mire
+1 Call the Coppercoats
+1 Cascade Bluffs
+1 Chrome Mox
+1 City of Brass
+1 Comet Storm
+1 Command Tower
+1 Crackle with Power
+1 Curse of the Swine
+1 Cyclonic Rift
+1 Deekah, Fractal Theorist
+1 Deflecting Swat
+1 Dismiss into Dream
+1 Disorder in the Court
+1 Distorting Wake
+1 Dockside Extortionist
+1 Enlightened Tutor
+1 Esper Sentinel
+1 Fierce Guardianship
+1 Fiery Islet
+1 Flooded Strand
+1 Gridlock
+1 Hallowed Fountain
+1 Heliod's Intervention
+1 Hinata, Dawn-Crowned
+1 Icy Blast
+1 Jeska's Will
+1 Jeweled Lotus
+1 Launch the Fleet
+1 Magma Opus
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 March of Swirling Mist
+1 Marsh Flats
+1 Mass Manipulation
+1 Metallurgic Summonings
+1 Misty Rainforest
+1 Monastery Mentor
+1 Mystical Tutor
+1 Mystic Confluence
+1 Mystic Gate
+1 Mystic Remora
+1 Mystic Sanctuary
+1 Plateau
+1 Polluted Delta
+1 Primal Amulet
+1 Pyromancer's Goggles
+1 Raugrin Triome
+1 Reality Spasm
+1 Reconstruct History
+1 Reflecting Pool
+1 Rhystic Study
+1 Rugged Prairie
+1 Sacred Foundry
+1 Scalding Tarn
+1 Sea of Clouds
+1 Sensei's Divining Top
+1 Shark Typhoon
+1 Shatterskull Smashing
+1 Shivan Reef
+1 Smoke Spirits' Aid
+1 Smothering Tithe
+1 Sol Ring
+1 Soulfire Eruption
+1 Soulfire Grand Master
+1 Spectator Seating
+1 Steam Vents
+1 Storm-Kiln Artist
+1 Sublime Epiphany
+1 Sunbird's Invocation
+1 Swords to Plowshares
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Progress
+1 Teferi's Protection
+1 Time Warp
+1 Training Center
+1 Tundra
+1 Urza's Saga
+1 Volcanic Island
+1 Whirlwind of Thought
+1 Willbreaker
+1 Windswept Heath
+1 Wooded Foothills
+1 Zaffai, Thunder Conductor

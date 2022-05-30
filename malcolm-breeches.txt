@@ -1,0 +1,98 @@
+1 Ancient Tomb
+1 Arcane Adaptation
+1 Arcane Denial
+1 Arcane Signet
+1 Arid Mesa
+1 Artificial Evolution
+1 Blades of Velis Vel
+1 Blasphemous Act
+1 Blisterspit Gremlin
+1 Bloodstained Mire
+1 Brainstorm
+1 Breeches, Brazen Plunderer
+1 Cascade Bluffs
+1 Chain of Vapor
+1 Chaos Warp
+1 Chrome Mox
+1 City of Brass
+1 Command Beacon
+1 Command Tower
+1 Counterflux
+1 Counterspell
+1 Curiosity
+1 Cyclonic Rift
+1 Deflecting Swat
+1 Dig Through Time
+1 Dockside Extortionist
+1 Dramatic Reversal
+1 Fabricate
+1 Fierce Guardianship
+1 Fiery Islet
+1 Flooded Strand
+1 Force of Will
+1 Freed from the Real
+1 Gamble
+1 Glasspool Mimic
+1 Glint-Horn Buccaneer
+1 Goblin Matron
+1 Imperial Recruiter
+1 Isochron Scepter
+1 Izzet Signet
+1 Jeska's Will
+1 Jeweled Lotus
+1 Kessig Flamebreather
+1 Lightning Greaves
+1 Magus of the Moon
+1 Malcolm, Keen-Eyed Navigator
+1 Mana Crypt
+1 Mana Drain
+1 Mana Vault
+1 Maskwood Nexus
+1 Merchant Scroll
+1 Misdirection
+1 Misty Rainforest
+1 Mox Amber
+1 Mox Opal
+1 Muddle the Mixture
+1 Mystical Tutor
+1 Mystic Remora
+1 Mystic Sanctuary
+1 Narset, Parter of Veils
+1 Ophidian Eye
+1 Otawara, Soaring City
+1 Pact of Negation
+1 Polluted Delta
+1 Ponder
+1 Pongify
+1 Preordain
+1 Rapid Hybridization
+1 Reckless Fireweaver
+1 Reflecting Pool
+1 Reliquary Tower
+1 Rhystic Study
+1 Riverglide Pathway
+1 Runed Stalactite
+1 Scalding Tarn
+1 Shivan Reef
+1 Sokenzan, Crucible of Defiance
+1 Sol Ring
+1 Solve the Equation
+1 Spellseeker
+1 Spellskite
+1 Spirebluff Canal
+1 Steam Vents
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Swiftfoot Boots
+1 Talisman of Creativity
+1 Tandem Lookout
+1 Thermo-Alchemist
+1 Thought Vessel
+1 Training Center
+1 Trickery Charm
+1 Urza's Saga
+1 Valakut Awakening
+1 Volcanic Island
+1 Windfall
+1 Wooded Foothills
+3 Island
