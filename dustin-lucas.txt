@@ -4,6 +4,7 @@
 1 Boros Garrison
 1 Buried Ruin
 1 Burnished Hart
+1 Chaos Warp
 1 Chromatic Lantern
 1 Combustible Gearhulk
 1 Commander's Sphere
@@ -28,7 +29,6 @@
 1 Hanna, Ship's Navigator
 1 Hedron Archive
 1 Hellkite Tyrant
-1 Ichor Wellspring
 1 Ingenuity Engine
 1 Iron Myr
 1 Izzet Boilerworks
@@ -47,6 +47,7 @@
 1 Mystic Monastery
 1 Negate
 1 Nettlecyst
+1 Organic Extinction
 1 Ornithopter of Paradise
 1 Palladium Myr
 1 Pilgrim's Eye
@@ -85,7 +86,6 @@
 1 Thopter Spy Network
 1 Thoughtcast
 1 Thought Monitor
-1 Thought Vessel
 1 Triplicate Titan
 1 Wayfarer's Bauble
 1 Whir of Invention

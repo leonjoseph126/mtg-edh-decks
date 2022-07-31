@@ -27,8 +27,8 @@
 1 Herald's Horn
 1 High Tide
 1 Inspired Sphinx
-1 Jace, Wielder of Mysteries
 1 Jeweled Lotus
+1 Leyline of Anticipation
 1 Mana Crypt
 1 Mana Drain
 1 Mana Vault
